@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/110926406/255982235-b8e9411d-ece5-4774-9bc2-5bb9e8d320d3.png" width="100%"/>
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
